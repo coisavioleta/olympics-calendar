@@ -3862,12 +3862,12 @@ SUMMARY:🏃 200м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T183400Z-taekwondo--57-
+UID:20240808T183400Z-taekwondo--57--LBN-CAN
 DTSTAMP:20240808T183400Z
 DTSTART:20240808T183400Z
 DTEND:20240808T184900Z
-DESCRIPTION:Тхэквондо - Поединки за бронзу, до 57кг (ж)\n🇱🇧 Laetitia AOUN
-SUMMARY:🥋 Поединки за бронзу, до 57кг (ж)
+DESCRIPTION:Тхэквондо - Поединки за бронзу, до 57кг (ж)
+SUMMARY:🥋 Laetitia AOUN 🇱🇧 - 🇨🇦 Skylar PARK
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -4876,7 +4876,11 @@ UID:20240810T181500Z-athletics-1500-
 DTSTAMP:20240810T181500Z
 DTSTART:20240810T181500Z
 DTEND:20240810T181900Z
-DESCRIPTION:Легкая атлетика - 1500м, финал (ж)
+DESCRIPTION:Легкая атлетика - 1500м, финал (ж)\n🇫🇷 Agathe GUILLEMOT\n🇪🇸
+  Agueda MARQUES\n🇪🇹 Diribe WELTEJI\n🇺🇸 Elle ST. PIERRE\n🇰🇪 Faith
+  KIPYEGON\n🇬🇧 Georgia BELL\n🇪🇹 Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇵🇱
+  Klaudia KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇺🇸 Nikki HILTZ\n🇰🇪 Susan Lokayo
+  EJORE
 SUMMARY:🏃 1500м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
