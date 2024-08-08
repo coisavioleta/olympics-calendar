@@ -6603,6 +6603,17 @@ SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇺🇸 Helen Louise MAROULIS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T170100Z-cycling-track--7-12-
+DTSTAMP:20240808T170100Z
+DTSTART:20240808T170100Z
+DTEND:20240808T171100Z
+DESCRIPTION:Трековые велогонки - Кейрин, за 7-12 места (ж)\n🇩🇪 Lea
+  FRIEDRICH\n🇫🇷 Mathilde GROS\n🇧🇪 Nicky DEGRENDELE\n🇯🇵 OHTA
+  Riyu\n🇳🇿 Rebecca PETCH\n🇳🇱 Steffie van der PEET
+SUMMARY:🚴 Кейрин, за 7-12 места (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T172700Z-cycling-track--4-4-
 DTSTAMP:20240808T172700Z
 DTSTART:20240808T172700Z
@@ -6751,10 +6762,10 @@ SUMMARY:🏃 Эстафета 4х400м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T094200Z-wrestling--74-18--CUB-JPN
-DTSTAMP:20240809T094200Z
-DTSTART:20240809T094200Z
-DTEND:20240809T094900Z
+UID:20240809T093500Z-wrestling--74-18--CUB-JPN
+DTSTAMP:20240809T093500Z
+DTSTART:20240809T093500Z
+DTEND:20240809T094200Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
 SUMMARY:🤼 Geandry GARZON CABALLERO 🇨🇺 - 🇯🇵 TAKATANI Daichi
 LOCATION:Арена «Марсово поле»
@@ -6912,6 +6923,15 @@ DESCRIPTION:Легкая атлетика - Эстафета 4х100м, фина�
   Франция\n🇿🇦 Южная Африка\n🇯🇵 Япония
 SUMMARY:🏃 Эстафета 4х100м, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T183500Z-wrestling--57--JPN-MDA
+DTSTAMP:20240809T183500Z
+DTSTART:20240809T183500Z
+DTEND:20240809T184500Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (ж)
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇲🇩 Anastasia NICHITA
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T185700Z-athletics-10000-
