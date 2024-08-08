@@ -35206,7 +35206,8 @@ UID:20240808T180400Z-cycling-track-MENS-SPRINT-FINAL-FOR-5TH-8TH-PLACES
 DTSTAMP:20240808T180400Z
 DTSTART:20240808T180400Z
 DTEND:20240808T180900Z
-DESCRIPTION:Cycling Track - Men's Sprint, Final for 5th-8th Places
+DESCRIPTION:Cycling Track - Men's Sprint, Final for 5th-8th Places\n🇬🇧
+  GBR\n🇯🇵 JPN\n🇵🇱 POL
 SUMMARY:🚴 Men's Sprint, Final for 5th-8th Places
 LOCATION:National Velodrome
 END:VEVENT
@@ -35220,12 +35221,12 @@ SUMMARY:🥋 Alizadeh KIMIA 🇧🇬 - 🇹🇳 Chaima TOUMI
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T181900Z-taekwondo-MEN-68KG-BRONZE-MEDAL-CONTESTS
+UID:20240808T181900Z-taekwondo-MEN-68KG-BRONZE-MEDAL-CONTESTS-GBR-CHN
 DTSTAMP:20240808T181900Z
 DTSTART:20240808T181900Z
 DTEND:20240808T183400Z
-DESCRIPTION:Taekwondo - Men -68kg Bronze Medal Contests\n🇬🇧 Bradly SINDEN
-SUMMARY:🥋 Men -68kg Bronze Medal Contests
+DESCRIPTION:Taekwondo - Men -68kg Bronze Medal Contests
+SUMMARY:🥋 Bradly SINDEN 🇬🇧 - 🇨🇳 LIANG Yushuai
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -35553,7 +35554,14 @@ UID:20240809T080500Z-athletics-WOMENS-HEPTATHLON-LONG-JUMP
 DTSTAMP:20240809T080500Z
 DTSTART:20240809T080500Z
 DTEND:20240809T084700Z
-DESCRIPTION:Athletics - Women's Heptathlon Long Jump
+DESCRIPTION:Athletics - Women's Heptathlon Long Jump\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah
+  BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
 SUMMARY:🏃 Women's Heptathlon Long Jump
 LOCATION:Stade de France
 END:VEVENT
@@ -35705,7 +35713,7 @@ DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
 DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇧🇪 BEL\n🇧🇼
   BOT\n🇧🇷 BRA\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇳 IND\n🇮🇹 ITA\n🇯🇵
-  JPN\n🇳🇬 NGR\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇹🇹 TTO\n🇺🇸 USA
+  JPN\n🇳🇬 NGR\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇹🇹 TTO\n🇺🇸 USA\n🇿🇲 ZAM
 SUMMARY:🏃 Men's 4 x 400m Relay Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -36087,7 +36095,15 @@ UID:20240809T100500Z-athletics-WOMENS-100M-HURDLES-SEMI-FINAL
 DTSTAMP:20240809T100500Z
 DTSTART:20240809T100500Z
 DTEND:20240809T102200Z
-DESCRIPTION:Athletics - Women's 100m Hurdles Semi-Final
+DESCRIPTION:Athletics - Women's 100m Hurdles Semi-Final\n🇯🇲 Ackera
+  NUGENT\n🇺🇸 Alaysha JOHNSON\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy
+  SEMBER\n🇫🇷 Cyrena SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Devynne
+  CHARLTON\n🇨🇭 Ditaji KAMBUNDJI\n🇱🇷 Ebony MORRISON\n🇯🇵 FUKUBE
+  Mako\n🇺🇸 Grace STARK\n🇯🇲 Janeek BROWN\n🇵🇷 Jasmine
+  CAMACHO-QUINN\n🇫🇮 Lotta HARALA\n🇳🇱 Maayke TJIN-A-LIM\n🇨🇦 Mariam
+  ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦 Marione FOURIE\n🇺🇸
+  Masai RUSSELL\n🇳🇱 Nadine VISSER\n🇵🇱 Pia SKRZYSZOWSKA\n🇮🇪 Sarah
+  LAVIN\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN
 SUMMARY:🏃 Women's 100m Hurdles Semi-Final
 LOCATION:Stade de France
 END:VEVENT
@@ -37837,7 +37853,7 @@ UID:20240810T090000Z-basketball-MENS-BRONZE-MEDAL-GAME
 DTSTAMP:20240810T090000Z
 DTSTART:20240810T090000Z
 DTEND:20240810T104500Z
-DESCRIPTION:Basketball - Men's Bronze Medal Game
+DESCRIPTION:Basketball - Men's Bronze Medal Game\n🇩🇪 GER
 SUMMARY:🏀 Men's Bronze Medal Game
 LOCATION:Bercy Arena
 END:VEVENT
@@ -39102,7 +39118,7 @@ UID:20240810T193000Z-basketball-MENS-GOLD-MEDAL-GAME
 DTSTAMP:20240810T193000Z
 DTSTART:20240810T193000Z
 DTEND:20240810T211500Z
-DESCRIPTION:Basketball - Men's Gold Medal Game
+DESCRIPTION:Basketball - Men's Gold Medal Game\n🇫🇷 FRA
 SUMMARY:🏀 Men's Gold Medal Game
 LOCATION:Bercy Arena
 END:VEVENT
