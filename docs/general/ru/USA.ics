@@ -11154,12 +11154,12 @@ SUMMARY:🤸 671 🇨🇳 - 🇺🇸 SUNNY
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T145000Z-taekwondo--80-
+UID:20240809T145000Z-taekwondo--80--USA-TUN
 DTSTAMP:20240809T145000Z
 DTSTART:20240809T145000Z
 DTEND:20240809T150300Z
-DESCRIPTION:Тхэквондо - Полуфинал, до 80кг (м)\n🇺🇸 CJ NICKOLAS
-SUMMARY:🥋 Полуфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Полуфинал, до 80кг (м)
+SUMMARY:🥋 CJ NICKOLAS 🇺🇸 - 🇹🇳 Firas KATOUSSI
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -11181,12 +11181,12 @@ SUMMARY:🏀 США 🇺🇸 - 🇦🇺 Австралия
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T153900Z-breaking--
+UID:20240809T153900Z-breaking---NED-USA
 DTSTAMP:20240809T153900Z
 DTSTART:20240809T153900Z
 DTEND:20240809T154530Z
-DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)\n🇺🇸 SUNNY
-SUMMARY:🤸 Групповой этап, группа А (ж)
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)
+SUMMARY:🤸 INDIA 🇳🇱 - 🇺🇸 SUNNY
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -11239,6 +11239,15 @@ DESCRIPTION:Легкая атлетика - Эстафета 4х100м, фина�
   США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇯🇲 Ямайка
 SUMMARY:🏃 Эстафета 4х100м, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-taekwondo--67--USA-CIV
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T174000Z
+DESCRIPTION:Тхэквондо - Утешительный поединок, до 67кг (ж)
+SUMMARY:🥋 Kristina TEACHOUT 🇺🇸 - 🇨🇮 Ruth GBAGBI
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming--
