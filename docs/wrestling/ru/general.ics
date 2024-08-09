@@ -2191,6 +2191,15 @@ SUMMARY:🤼 Tajmuraz Mairbekovic SALKAZANOV 🇸🇰 - 🇺🇿 Razambek Salamb
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101000Z-wrestling--125-14--IRI-CAN
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Amir Hossein ZARE 🇮🇷 - 🇨🇦 Amarveer DHESI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T101000Z-wrestling--74-18--ALB-AZE
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
@@ -2200,21 +2209,12 @@ SUMMARY:🤼 Chermen VALIEV 🇦🇱 - 🇦🇿 Turan BAYRAMOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T101000Z-wrestling--125-14-
-DTSTAMP:20240809T101000Z
-DTSTART:20240809T101000Z
-DTEND:20240809T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)\n🇮🇷 Amir
-  Hossein ZARE
-SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240809T101000Z-wrestling--62-14-
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
 DTEND:20240809T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇰🇬 Aisuluu
+  TYNYBEKOVA
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2223,7 +2223,8 @@ UID:20240809T101700Z-wrestling--125-14-
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)\n🇭🇺 Daniel
+  LIGETI
 SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2241,7 +2242,8 @@ UID:20240809T101700Z-wrestling--74-14-
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇺🇸 Kyle
+  Douglas DAKE
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2268,7 +2270,8 @@ UID:20240809T102400Z-wrestling--74-14-
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
 DTEND:20240809T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇷🇸 Hetik
+  CABOLOV
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
