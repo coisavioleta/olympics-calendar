@@ -36320,22 +36320,22 @@ SUMMARY:🤼 Daniel LIGETI 🇭🇺 - 🇹🇷 Taha AKGUL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101700Z-wrestling--74-14--USA-IRI
+DTSTAMP:20240809T101700Z
+DTSTART:20240809T101700Z
+DTEND:20240809T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇮🇷 Yones EMAMICHOGHAEI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T101700Z-wrestling--62-14-
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇧🇬 Bilyana
+  Zhivkova DUDOVA
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T101700Z-wrestling--74-14-
-DTSTAMP:20240809T101700Z
-DTSTART:20240809T101700Z
-DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇺🇸 Kyle
-  Douglas DAKE
-SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36741,12 +36741,12 @@ SUMMARY:🥋 Mehran BARKHORDARI 🇮🇷 - 🇮🇹 Simone ALESSIO
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T131900Z-taekwondo--67-
+UID:20240809T131900Z-taekwondo--67--JOR-CHN
 DTSTAMP:20240809T131900Z
 DTSTART:20240809T131900Z
 DTEND:20240809T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)\n🇯🇴 Julyana ALSADEQ
-SUMMARY:🥋 Четвертьфинал, до 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)
+SUMMARY:🥋 Julyana ALSADEQ 🇯🇴 - 🇨🇳 SONG Jie
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -38883,7 +38883,9 @@ UID:20240810T170500Z-athletics-800-
 DTSTAMP:20240810T170500Z
 DTSTART:20240810T170500Z
 DTEND:20240810T170700Z
-DESCRIPTION:Легкая атлетика - 800м, финал (м)
+DESCRIPTION:Легкая атлетика - 800м, финал (м)\n🇺🇸 Bryce HOPPEL\n🇩🇿
+  Djamel SEDJATI\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇨🇦 Marco
+  AROP\n🇬🇧 Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇧🇼 Tshepiso MASALELA
 SUMMARY:🏃 800м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

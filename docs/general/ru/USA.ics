@@ -11055,13 +11055,12 @@ SUMMARY:🤼 Aisuluu TYNYBEKOVA 🇰🇬 - 🇺🇸 Kayla Colleen MIRACLE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T101700Z-wrestling--74-14-
+UID:20240809T101700Z-wrestling--74-14--USA-IRI
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇺🇸 Kyle
-  Douglas DAKE
-SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇮🇷 Yones EMAMICHOGHAEI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -11497,6 +11496,17 @@ DESCRIPTION:Легкая атлетика - Прыжки в высоту, фин
   BECKFORD\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano SOTTILE\n🇧🇬 Tihomir
   IVANOV\n🇰🇷 WOO Sanghyeok
 SUMMARY:🏃 Прыжки в высоту, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T170500Z-athletics-800-
+DTSTAMP:20240810T170500Z
+DTSTART:20240810T170500Z
+DTEND:20240810T170700Z
+DESCRIPTION:Легкая атлетика - 800м, финал (м)\n🇺🇸 Bryce HOPPEL\n🇩🇿
+  Djamel SEDJATI\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇨🇦 Marco
+  AROP\n🇬🇧 Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇧🇼 Tshepiso MASALELA
+SUMMARY:🏃 800м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT

@@ -11009,13 +11009,12 @@ SUMMARY:🤼 Aisuluu TYNYBEKOVA 🇰🇬 - 🇺🇸 Kayla Colleen MIRACLE
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T101700Z-wrestling-MENS-FREESTYLE-74KG-14-FINAL
+UID:20240809T101700Z-wrestling-MENS-FREESTYLE-74KG-14-FINAL-USA-IRI
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final\n🇺🇸 Kyle Douglas
-  DAKE
-SUMMARY:🤼 Men's Freestyle 74kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇮🇷 Yones EMAMICHOGHAEI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -11448,6 +11447,17 @@ DESCRIPTION:Athletics - Men's High Jump Final\n🇯🇵 AKAMATSU Ryoichi\n🇿�
   BECKFORD\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano SOTTILE\n🇧🇬 Tihomir
   IVANOV\n🇰🇷 WOO Sanghyeok
 SUMMARY:🏃 Men's High Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T170500Z-athletics-MENS-800M-FINAL
+DTSTAMP:20240810T170500Z
+DTSTART:20240810T170500Z
+DTEND:20240810T170700Z
+DESCRIPTION:Athletics - Men's 800m Final\n🇺🇸 Bryce HOPPEL\n🇩🇿 Djamel
+  SEDJATI\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇨🇦 Marco AROP\n🇬🇧
+  Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇧🇼 Tshepiso MASALELA
+SUMMARY:🏃 Men's 800m Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
