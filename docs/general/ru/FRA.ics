@@ -11256,6 +11256,21 @@ SUMMARY:🧗 Трудность, финал (м)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T110000Z-modern-pentathlon--A-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T113500Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, верховая
+  езда (м)\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Личный зачет, полуфинал A, верховая езда (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T114000Z-modern-pentathlon--A-
 DTSTAMP:20240809T114000Z
 DTSTART:20240809T114000Z
@@ -11661,6 +11676,17 @@ DESCRIPTION:Легкая атлетика - 1500м, финал (ж)\n🇫🇷 Ag
   Klaudia KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇺🇸 Nikki HILTZ\n🇰🇪 Susan Lokayo
   EJORE
 SUMMARY:🏃 1500м, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T191400Z-athletics--4400-
+DTSTAMP:20240810T191400Z
+DTSTART:20240810T191400Z
+DTEND:20240810T191800Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х400м, финал (ж)\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇮🇪 Ирландия\n🇨🇦 Канада\n🇳🇱
+  Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇯🇲 Ямайка
+SUMMARY:🏃 Эстафета 4х400м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT

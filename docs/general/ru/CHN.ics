@@ -9241,6 +9241,21 @@ SUMMARY:🤼 Amr HUSSEN 🇪🇬 - 🇨🇳 LU Feng
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T110000Z-modern-pentathlon--A-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T113500Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, верховая
+  езда (м)\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Личный зачет, полуфинал A, верховая езда (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T114000Z-modern-pentathlon--A-
 DTSTAMP:20240809T114000Z
 DTSTART:20240809T114000Z
@@ -9425,13 +9440,12 @@ SUMMARY:🏃 Тройной прыжок, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T182500Z-wrestling--57-
+UID:20240809T182500Z-wrestling--57--BRA-CHN
 DTSTAMP:20240809T182500Z
 DTSTART:20240809T182500Z
 DTEND:20240809T183500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)\n🇨🇳
-  HONG Kexin
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
+SUMMARY:🤼 Giullia PENALBER 🇧🇷 - 🇨🇳 HONG Kexin
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

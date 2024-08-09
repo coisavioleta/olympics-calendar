@@ -2101,12 +2101,12 @@ SUMMARY:🤼 Mason Mark PARRIS 🇺🇸 - 🇲🇳 Lkhagvagerel MUNKHTUR
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T094200Z-wrestling--74-18-
+UID:20240809T094200Z-wrestling--74-18--IRI-GBS
 DTSTAMP:20240809T094200Z
 DTSTART:20240809T094200Z
 DTEND:20240809T094900Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)\n🇬🇼 Bacar NDUM
-SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Yones EMAMICHOGHAEI 🇮🇷 - 🇬🇼 Bacar NDUM
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2182,13 +2182,12 @@ SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇬🇪 Geno PETRIASHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T100300Z-wrestling--74-18-
+UID:20240809T100300Z-wrestling--74-18--SVK-UZB
 DTSTAMP:20240809T100300Z
 DTSTART:20240809T100300Z
 DTEND:20240809T101000Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)\n🇸🇰 Tajmuraz
-  Mairbekovic SALKAZANOV
-SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Tajmuraz Mairbekovic SALKAZANOV 🇸🇰 - 🇺🇿 Razambek Salambekovi
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2205,7 +2204,8 @@ UID:20240809T101000Z-wrestling--125-14-
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
 DTEND:20240809T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)\n🇮🇷 Amir
+  Hossein ZARE
 SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2372,13 +2372,12 @@ SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇮🇳 Aman AMAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T172500Z-wrestling--57-
+UID:20240809T172500Z-wrestling--57--KGZ-UZB
 DTSTAMP:20240809T172500Z
 DTSTART:20240809T172500Z
 DTEND:20240809T173500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (м)\n🇺🇿
-  Gulomjon ABDULLAEV
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (м)
+SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇿 Gulomjon ABDULLAEV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2391,23 +2390,21 @@ SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇺🇸 Spencer Richard LEE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T174500Z-wrestling--86-
+UID:20240809T174500Z-wrestling--86--UZB-USA
 DTSTAMP:20240809T174500Z
 DTSTART:20240809T174500Z
 DTEND:20240809T175500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)\n🇺🇸
-  Aaron Marquel BROOKS
-SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+SUMMARY:🤼 Javrail SHAPIEV 🇺🇿 - 🇺🇸 Aaron Marquel BROOKS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T175500Z-wrestling--86-
+UID:20240809T175500Z-wrestling--86--GRE-SMR
 DTSTAMP:20240809T175500Z
 DTSTART:20240809T175500Z
 DTEND:20240809T180500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)\n🇸🇲
-  Myles Nazem AMINE
-SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+SUMMARY:🤼 Dauren KURUGLIEV 🇬🇷 - 🇸🇲 Myles Nazem AMINE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2420,23 +2417,21 @@ SUMMARY:🤼 Magomed Eldarovitch RAMAZANOV 🇧🇬 - 🇮🇷 Hassan YAZDANICHA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T181500Z-wrestling--57-
+UID:20240809T181500Z-wrestling--57--CAN-USA
 DTSTAMP:20240809T181500Z
 DTSTART:20240809T181500Z
 DTEND:20240809T182500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)\n🇺🇸
-  Helen Louise MAROULIS
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
+SUMMARY:🤼 Hannah Fay TAYLOR 🇨🇦 - 🇺🇸 Helen Louise MAROULIS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T182500Z-wrestling--57-
+UID:20240809T182500Z-wrestling--57--BRA-CHN
 DTSTAMP:20240809T182500Z
 DTSTART:20240809T182500Z
 DTEND:20240809T183500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)\n🇨🇳
-  HONG Kexin
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
+SUMMARY:🤼 Giullia PENALBER 🇧🇷 - 🇨🇳 HONG Kexin
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

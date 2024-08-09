@@ -11207,6 +11207,21 @@ SUMMARY:🧗 Men's Boulder & Lead, Final Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T110000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-RIDING-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T113500Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Riding Show
+  Jumping\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Men's Individual, Semi-final A, Riding Show Jumping
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T114000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-FENCING
 DTSTAMP:20240809T114000Z
 DTSTART:20240809T114000Z
@@ -11608,6 +11623,16 @@ DESCRIPTION:Athletics - Women's 1500m Final\n🇫🇷 Agathe GUILLEMOT\n🇪🇸
   Klaudia KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇺🇸 Nikki HILTZ\n🇰🇪 Susan Lokayo
   EJORE
 SUMMARY:🏃 Women's 1500m Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T191400Z-athletics-WOMENS-4-X-400M-RELAY-FINAL
+DTSTAMP:20240810T191400Z
+DTSTART:20240810T191400Z
+DTEND:20240810T191800Z
+DESCRIPTION:Athletics - Women's 4 x 400m Relay Final\n🇧🇪 BEL\n🇨🇦
+  CAN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇪 IRL\n🇯🇲 JAM\n🇳🇱 NED\n🇺🇸 USA
+SUMMARY:🏃 Women's 4 x 400m Relay Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
