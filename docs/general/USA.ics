@@ -11143,13 +11143,12 @@ SUMMARY:🚴 Women's Madison, Final
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T161500Z-wrestling-MENS-FREESTYLE-74KG-SEMIFINAL
+UID:20240809T161500Z-wrestling-MENS-FREESTYLE-74KG-SEMIFINAL-USA-JPN
 DTSTAMP:20240809T161500Z
 DTSTART:20240809T161500Z
 DTEND:20240809T162500Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg Semifinal\n🇺🇸 Kyle Douglas
-  DAKE
-SUMMARY:🤼 Men's Freestyle 74kg Semifinal
+DESCRIPTION:Wrestling - Men's Freestyle 74kg Semifinal
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇯🇵 TAKATANI Daichi
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -11272,6 +11271,19 @@ SUMMARY:🤼 Hannah Fay TAYLOR 🇨🇦 - 🇺🇸 Helen Louise MAROULIS
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T182500Z-athletics-WOMENS-HEPTATHLON-800M
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T184800Z
+DESCRIPTION:Athletics - Women's Heptathlon 800m\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn
+  NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇬🇧 Jade
+  O'DOWDA\n🇮🇪 Kate O'CONNOR\n🇭🇺 Rita NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹
+  Sveva GEREVINI\n🇦🇺 Tori WEST
+SUMMARY:🏃 Women's Heptathlon 800m
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T185700Z-athletics-WOMENS-10000M-FINAL
 DTSTAMP:20240809T185700Z
 DTSTART:20240809T185700Z
@@ -11333,6 +11345,21 @@ DESCRIPTION:Athletics - Men's Marathon\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi
   CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Men's Marathon
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-diving-MENS-10M-PLATFORM-SEMIFINAL
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T095400Z
+DESCRIPTION:Diving - Men's 10m Platform Semifinal\n🇮🇹 Andreas Sargent
+  LARSEN\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇦🇺 Cassiel
+  ROUSSEAU\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii
+  SEREDA\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Men's 10m Platform Semifinal
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T081000Z-taekwondo-MEN-80KG-ROUND-OF-16-USA-CHN

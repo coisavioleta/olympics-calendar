@@ -11218,6 +11218,18 @@ SUMMARY:🛶 Women's Canoe Double 500m Final B
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T110000Z-canoe-sprint-WOMENS-KAYAK-DOUBLE-500M-FINAL-B
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T110700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Double 500m Final B\n🇲🇽 ALANIS
+  MOR/BRIONES FR\n🇪🇸 GARCIA OTE/OUZANDE\n🇫🇷 HOSTENS/PAOLETTI\n🇵🇱
+  KLATT/WISNIEWSKA\n🇵🇱 NAJA/PULAWSKA\n🇸🇪 STENSILS/WIKBERG\n🇨🇦
+  STOTT/DAVISON\n🇨🇳 YU/CHEN
+SUMMARY:🛶 Women's Kayak Double 500m Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T110000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-RIDING-
 DTSTAMP:20240809T110000Z
 DTSTART:20240809T110000Z
@@ -11396,6 +11408,19 @@ DTEND:20240809T174800Z
 DESCRIPTION:Athletics - Men's 4 x 100m Relay Final\n🇨🇦 CAN\n🇨🇳
   CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇿🇦 RSA\n🇺🇸 USA
 SUMMARY:🏃 Men's 4 x 100m Relay Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T182500Z-athletics-WOMENS-HEPTATHLON-800M
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T184800Z
+DESCRIPTION:Athletics - Women's Heptathlon 800m\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn
+  NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇬🇧 Jade
+  O'DOWDA\n🇮🇪 Kate O'CONNOR\n🇭🇺 Rita NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹
+  Sveva GEREVINI\n🇦🇺 Tori WEST
+SUMMARY:🏃 Women's Heptathlon 800m
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

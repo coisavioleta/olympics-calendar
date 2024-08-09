@@ -9419,6 +9419,18 @@ SUMMARY:🤺 Men's Individual, Semi-final A, Riding Show Jumping
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T111000Z-canoe-sprint-WOMENS-KAYAK-DOUBLE-500M-FINAL-A
+DTSTAMP:20240809T111000Z
+DTSTART:20240809T111000Z
+DTEND:20240809T111700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Double 500m Final A\n🇦🇺
+  BEERE/BULL\n🇳🇿 CARRINGTON/HOSKIN\n🇭🇺 CSIPES/GAZSO\n🇳🇱
+  KONIJN/VORSSELMAN\n🇩🇪 PASZEK/HAKE\n🇧🇪 PETERS/BROEKX\n🇭🇺
+  PUPP/FOJT\n🇩🇪 ROEHLINGS/JAGSCH
+SUMMARY:🛶 Women's Kayak Double 500m Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T114000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-FENCING
 DTSTAMP:20240809T114000Z
 DTSTART:20240809T114000Z
@@ -9546,6 +9558,19 @@ SUMMARY:🏃 Men's Triple Jump Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T182500Z-athletics-WOMENS-HEPTATHLON-800M
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T184800Z
+DESCRIPTION:Athletics - Women's Heptathlon 800m\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn
+  NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇬🇧 Jade
+  O'DOWDA\n🇮🇪 Kate O'CONNOR\n🇭🇺 Rita NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹
+  Sveva GEREVINI\n🇦🇺 Tori WEST
+SUMMARY:🏃 Women's Heptathlon 800m
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T060000Z-athletics-MENS-MARATHON
 DTSTAMP:20240810T060000Z
 DTSTART:20240810T060000Z
@@ -9587,6 +9612,21 @@ DTEND:20240810T074600Z
 DESCRIPTION:Taekwondo - Women +67kg Round of 16
 SUMMARY:🥋 Lorena BRANDL 🇩🇪 - 🇨🇺 Arlettys ACOSTA HERRERA
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-diving-MENS-10M-PLATFORM-SEMIFINAL
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T095400Z
+DESCRIPTION:Diving - Men's 10m Platform Semifinal\n🇮🇹 Andreas Sargent
+  LARSEN\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇦🇺 Cassiel
+  ROUSSEAU\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii
+  SEREDA\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Men's 10m Platform Semifinal
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T080000Z-table-tennis-WOMENS-TEAM-BRONZE-MEDAL-TEAM-MATCH-KOR-G
