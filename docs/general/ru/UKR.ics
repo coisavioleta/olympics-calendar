@@ -2680,6 +2680,15 @@ SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 4 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T090700Z-wrestling--125--UKR-POL
+DTSTAMP:20240810T090700Z
+DTSTART:20240810T090700Z
+DTEND:20240810T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, утешительный раунд (м)
+SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇵🇱 Robert BARAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T093500Z-wrestling--97-18--UKR-TUR
 DTSTAMP:20240810T093500Z
 DTSTART:20240810T093500Z
@@ -2779,6 +2788,15 @@ DESCRIPTION:Синхронное плавание - Дуэты, произвол
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183500Z-wrestling--62-
+DTSTAMP:20240810T183500Z
+DTSTART:20240810T183500Z
+DTEND:20240810T184500Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, финал (ж)\n🇺🇦 Iryna KOLIADENKO
+SUMMARY:🤼 Вольная борьба, 62кг, финал (ж)
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

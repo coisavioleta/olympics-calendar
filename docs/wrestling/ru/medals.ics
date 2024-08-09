@@ -371,18 +371,18 @@ UID:20240810T175500Z-wrestling--125-
 DTSTAMP:20240810T175500Z
 DTSTART:20240810T175500Z
 DTEND:20240810T180500Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)\n🇦🇿
+  Giorgi MESHVILDISHVILI
 SUMMARY:🤼 Вольная борьба, 125кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T180500Z-wrestling--125-
+UID:20240810T180500Z-wrestling--125--IRI-GEO
 DTSTAMP:20240810T180500Z
 DTSTART:20240810T180500Z
 DTEND:20240810T181500Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, финал (м)\n🇮🇷 Amir Hossein
-  ZARE
-SUMMARY:🤼 Вольная борьба, 125кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, финал (м)
+SUMMARY:🤼 Amir Hossein ZARE 🇮🇷 - 🇬🇪 Geno PETRIASHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +390,8 @@ UID:20240810T181500Z-wrestling--62-
 DTSTAMP:20240810T181500Z
 DTSTART:20240810T181500Z
 DTEND:20240810T182500Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)\n🇰🇬
+  Aisuluu TYNYBEKOVA
 SUMMARY:🤼 Вольная борьба, 62кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -408,7 +409,7 @@ UID:20240810T183500Z-wrestling--62-
 DTSTAMP:20240810T183500Z
 DTSTART:20240810T183500Z
 DTEND:20240810T184500Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, финал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, финал (ж)\n🇺🇦 Iryna KOLIADENKO
 SUMMARY:🤼 Вольная борьба, 62кг, финал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -431,39 +432,57 @@ SUMMARY:🤼 Вольная борьба, 65кг, поединок за брон
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T102500Z-wrestling--65-
-DTSTAMP:20240811T102500Z
-DTSTART:20240811T102500Z
-DTEND:20240811T103500Z
+UID:20240811T102000Z-wrestling--65-
+DTSTAMP:20240811T102000Z
+DTSTART:20240811T102000Z
+DTEND:20240811T103000Z
 DESCRIPTION:Борьба - Вольная борьба, 65кг, финал (м)
 SUMMARY:🤼 Вольная борьба, 65кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T103500Z-wrestling--97-
-DTSTAMP:20240811T103500Z
-DTSTART:20240811T103500Z
-DTEND:20240811T104500Z
+UID:20240811T103000Z-wrestling--97-
+DTSTAMP:20240811T103000Z
+DTSTART:20240811T103000Z
+DTEND:20240811T104000Z
 DESCRIPTION:Борьба - Вольная борьба, 97кг, поединок за бронзу (м)
 SUMMARY:🤼 Вольная борьба, 97кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T104500Z-wrestling--97-
-DTSTAMP:20240811T104500Z
-DTSTART:20240811T104500Z
-DTEND:20240811T105500Z
+UID:20240811T104000Z-wrestling--97-
+DTSTAMP:20240811T104000Z
+DTSTART:20240811T104000Z
+DTEND:20240811T105000Z
 DESCRIPTION:Борьба - Вольная борьба, 97кг, поединок за бронзу (м)
 SUMMARY:🤼 Вольная борьба, 97кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T110000Z-wrestling--97-
+UID:20240811T105000Z-wrestling--97-
+DTSTAMP:20240811T105000Z
+DTSTART:20240811T105000Z
+DTEND:20240811T110000Z
+DESCRIPTION:Борьба - Вольная борьба, 97кг, финал (м)
+SUMMARY:🤼 Вольная борьба, 97кг, финал (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T110000Z-wrestling--76-
 DTSTAMP:20240811T110000Z
 DTSTART:20240811T110000Z
 DTEND:20240811T111000Z
-DESCRIPTION:Борьба - Вольная борьба, 97кг, финал (м)
-SUMMARY:🤼 Вольная борьба, 97кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 76кг, поединок за бронзу (ж)
+SUMMARY:🤼 Вольная борьба, 76кг, поединок за бронзу (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T111000Z-wrestling--76-
+DTSTAMP:20240811T111000Z
+DTSTART:20240811T111000Z
+DTEND:20240811T112000Z
+DESCRIPTION:Борьба - Вольная борьба, 76кг, поединок за бронзу (ж)
+SUMMARY:🤼 Вольная борьба, 76кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -471,24 +490,6 @@ UID:20240811T112000Z-wrestling--76-
 DTSTAMP:20240811T112000Z
 DTSTART:20240811T112000Z
 DTEND:20240811T113000Z
-DESCRIPTION:Борьба - Вольная борьба, 76кг, поединок за бронзу (ж)
-SUMMARY:🤼 Вольная борьба, 76кг, поединок за бронзу (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240811T113000Z-wrestling--76-
-DTSTAMP:20240811T113000Z
-DTSTART:20240811T113000Z
-DTEND:20240811T114000Z
-DESCRIPTION:Борьба - Вольная борьба, 76кг, поединок за бронзу (ж)
-SUMMARY:🤼 Вольная борьба, 76кг, поединок за бронзу (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240811T114500Z-wrestling--76-
-DTSTAMP:20240811T114500Z
-DTSTART:20240811T114500Z
-DTEND:20240811T115500Z
 DESCRIPTION:Борьба - Вольная борьба, 76кг, финал (ж)
 SUMMARY:🤼 Вольная борьба, 76кг, финал (ж)
 LOCATION:Арена «Марсово поле»
