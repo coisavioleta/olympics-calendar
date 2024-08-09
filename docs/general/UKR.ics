@@ -2590,6 +2590,21 @@ SUMMARY:🤸 KATE 🇺🇦 - 🇺🇦 STEFANI
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-LASER-R
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Laser
+  Run\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles BROWN\n🇨🇱
+  Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN
+  Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Men's Individual, Semi-final B, Laser Run
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T165500Z-wrestling-WOMENS-FREESTYLE-62KG-SEMIFINAL-KGZ-UKR
 DTSTAMP:20240809T165500Z
 DTSTART:20240809T165500Z
@@ -2609,6 +2624,15 @@ DESCRIPTION:Artistic Swimming - Duet Technical Routine\n🇦🇺 AUS\n🇦🇹
   ESP\n🇺🇦 UKR\n🇺🇸 USA
 SUMMARY:🏊 Duet Technical Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T181500Z-breaking-B-GIRLS-QUARTERFINAL-3-CHN-UKR
+DTSTAMP:20240809T181500Z
+DTSTART:20240809T181500Z
+DTEND:20240809T182245Z
+DESCRIPTION:Breaking - B-Girls Quarterfinal 3
+SUMMARY:🤸 671 🇨🇳 - 🇺🇦 KATE
+LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T080000Z-diving-MENS-10M-PLATFORM-SEMIFINAL

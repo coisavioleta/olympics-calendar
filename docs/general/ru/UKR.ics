@@ -2607,6 +2607,21 @@ SUMMARY:🤸 KATE 🇺🇦 - 🇺🇦 STEFANI
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon--B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, лазер-ран
+  (м)\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles BROWN\n🇨🇱
+  Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN
+  Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Личный зачет, полуфинал B, лазер-ран (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T165500Z-wrestling--62--KGZ-UKR
 DTSTAMP:20240809T165500Z
 DTSTART:20240809T165500Z
@@ -2627,6 +2642,15 @@ DESCRIPTION:Синхронное плавание - Дуэты, техничес
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, техническая программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T181500Z-breaking--3--CHN-UKR
+DTSTAMP:20240809T181500Z
+DTSTART:20240809T181500Z
+DTEND:20240809T182245Z
+DESCRIPTION:Брейкинг - Четвертьфинал 3 (ж)
+SUMMARY:🤸 671 🇨🇳 - 🇺🇦 KATE
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T080000Z-diving--10-

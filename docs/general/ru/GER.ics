@@ -9638,6 +9638,21 @@ SUMMARY:🚴 Мэдисон, финал (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon--B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, лазер-ран
+  (м)\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles BROWN\n🇨🇱
+  Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN
+  Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Личный зачет, полуфинал B, лазер-ран (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T171000Z-cycling-track--116-
 DTSTAMP:20240809T171000Z
 DTSTART:20240809T171000Z
@@ -9877,6 +9892,15 @@ DTEND:20240810T212000Z
 DESCRIPTION:Пляжный волейбол - Финал (м)
 SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇩🇪 EHLERS/WICKLER
 LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T113000Z-handball--
+DTSTAMP:20240811T113000Z
+DTSTART:20240811T113000Z
+DTEND:20240811T133000Z
+DESCRIPTION:Гандбол - Финал (м)\n🇩🇪 Германия
+SUMMARY:🤾 Финал (м)
+LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
