@@ -1442,6 +1442,15 @@ SUMMARY:🏃 男子三段跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T181900Z-taekwondo-67KG3
+DTSTAMP:20240809T181900Z
+DTSTART:20240809T181900Z
+DTEND:20240809T183400Z
+DESCRIPTION:テコンドー - 女子67kg級3位決定戦\n🇨🇳 SONG Jie
+SUMMARY:🥋 女子67kg級3位決定戦
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T182500Z-wrestling-57KG3-BRA-CHN
 DTSTAMP:20240809T182500Z
 DTSTART:20240809T182500Z
@@ -1476,11 +1485,11 @@ DTEND:20240810T084500Z
 DESCRIPTION:陸上競技 - 男子マラソン決勝\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi NAGEEYE\n🇬🇹
   Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
   SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
-  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron LEVINS\n🇨🇱
-  Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton YOUNG\n🇺🇸 Conner
-  MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹 Deresa
-  GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦 Elroy
-  GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane TESFAY\n🇨🇦
+  Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
   Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
   Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
   CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac

@@ -1447,6 +1447,15 @@ SUMMARY:🤼 Javrail SHAPIEV 🇺🇿 - 🇺🇸 Aaron Marquel BROOKS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T175300Z-taekwondo--67--UZB-THA
+DTSTAMP:20240809T175300Z
+DTSTART:20240809T175300Z
+DTEND:20240809T180600Z
+DESCRIPTION:Тхэквондо - Утешительный поединок, до 67кг (ж)
+SUMMARY:🥋 Ozoda SOBIRJONOVA 🇺🇿 - 🇹🇭 Sasikarn TONGCHAN
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T193000Z-boxing--71--UZB-MEX
 DTSTAMP:20240809T193000Z
 DTSTART:20240809T193000Z
@@ -1472,29 +1481,29 @@ DTEND:20240810T084500Z
 DESCRIPTION:Легкая атлетика - Марафон, финал (м)\n🇯🇵 AKASAKI Akira\n🇳🇱
   Abdi NAGEEYE\n🇬🇹 Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿
   Alphonce Felix SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬
-  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron
-  LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
-  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
-  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
-  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
-  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
-  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
-  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
-  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
-  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
-  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
-  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
-  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
-  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
-  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
-  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
-  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
-  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
-  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
-  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
-  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
-  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
-  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane
+  TESFAY\n🇨🇦 Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian
+  PACHECO\n🇺🇸 Clayton YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰
+  Dario IVANOVSKI\n🇪🇹 Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪
+  Eliud KIPCHOGE\n🇿🇦 Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob
+  FANIEL\n🇫🇷 Felix BOUR\n🇹🇿 Gabriel Gerald GEAY\n🇮🇱 Gashau
+  AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector
+  GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯
+  Ibrahim HASSAN\n🇿🇼 Isaac MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen
+  OZBILEN\n🇪🇹 Kenenisa BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen
+  NAERT\n🇺🇸 Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱
+  Maru TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas
+  NAVARRO\n🇯🇵 OSAKO Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick
+  TIERNAN\n🇬🇧 Philip SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory
+  LINKLETTER\n🇪🇷 Samsom AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI
+  SIBHATU\n🇨🇻 Samuel FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh
+  DAVLYATOV\n🇳🇴 Sondre Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen
+  MOKOKA\n🇸🇪 Suldan HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse
+  ABRAHAM\n🇪🇹 Tamirat TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello
+  RAMAKONGOANA\n🇹🇩 Valentin BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU
+  Xiangdong\n🇨🇳 YANG Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹
+  Yemaneberhan CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Марафон, финал (м)
 LOCATION:Дом инвалидов
 END:VEVENT

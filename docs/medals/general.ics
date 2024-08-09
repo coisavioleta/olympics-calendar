@@ -4298,7 +4298,7 @@ UID:20240809T181900Z-taekwondo-WOMEN-67KG-BRONZE-MEDAL-CONTESTS
 DTSTAMP:20240809T181900Z
 DTSTART:20240809T181900Z
 DTEND:20240809T183400Z
-DESCRIPTION:Taekwondo - Women -67kg Bronze Medal Contests
+DESCRIPTION:Taekwondo - Women -67kg Bronze Medal Contests\n🇨🇳 SONG Jie
 SUMMARY:🥋 Women -67kg Bronze Medal Contests
 LOCATION:Grand Palais
 END:VEVENT
@@ -4329,7 +4329,7 @@ UID:20240809T183400Z-taekwondo-MEN-80KG-BRONZE-MEDAL-CONTESTS
 DTSTAMP:20240809T183400Z
 DTSTART:20240809T183400Z
 DTEND:20240809T184900Z
-DESCRIPTION:Taekwondo - Men -80kg Bronze Medal Contests
+DESCRIPTION:Taekwondo - Men -80kg Bronze Medal Contests\n🇺🇸 CJ NICKOLAS
 SUMMARY:🥋 Men -80kg Bronze Medal Contests
 LOCATION:Grand Palais
 END:VEVENT
@@ -4397,12 +4397,12 @@ SUMMARY:🤸 B-Girls Bronze Medal Battle
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T191900Z-taekwondo-WOMEN-67KG-GOLD-MEDAL-CONTEST
+UID:20240809T191900Z-taekwondo-WOMEN-67KG-GOLD-MEDAL-CONTEST-HUN-SRB
 DTSTAMP:20240809T191900Z
 DTSTART:20240809T191900Z
 DTEND:20240809T193400Z
-DESCRIPTION:Taekwondo - Women -67kg Gold Medal Contest\n🇭🇺 Viviana MARTON
-SUMMARY:🥋 Women -67kg Gold Medal Contest
+DESCRIPTION:Taekwondo - Women -67kg Gold Medal Contest
+SUMMARY:🥋 Viviana MARTON 🇭🇺 - 🇷🇸 Aleksandra PERISIC
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -4424,13 +4424,12 @@ SUMMARY:🥊 Asadkhuja MUYDINKHUJAEV 🇺🇿 - 🇲🇽 Marco Alonso VERDE ALVA
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T193700Z-taekwondo-MEN-80KG-GOLD-MEDAL-CONTEST
+UID:20240809T193700Z-taekwondo-MEN-80KG-GOLD-MEDAL-CONTEST-IRI-TUN
 DTSTAMP:20240809T193700Z
 DTSTART:20240809T193700Z
 DTEND:20240809T195200Z
-DESCRIPTION:Taekwondo - Men -80kg Gold Medal Contest\n🇮🇷 Mehran
-  BARKHORDARI
-SUMMARY:🥋 Men -80kg Gold Medal Contest
+DESCRIPTION:Taekwondo - Men -80kg Gold Medal Contest
+SUMMARY:🥋 Mehran BARKHORDARI 🇮🇷 - 🇹🇳 Firas KATOUSSI
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -4489,29 +4488,29 @@ DTEND:20240810T084500Z
 DESCRIPTION:Athletics - Men's Marathon\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi
   NAGEEYE\n🇬🇹 Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿
   Alphonce Felix SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬
-  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron
-  LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
-  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
-  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
-  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
-  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
-  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
-  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
-  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
-  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
-  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
-  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
-  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
-  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
-  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
-  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
-  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
-  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
-  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
-  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
-  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
-  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
-  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane
+  TESFAY\n🇨🇦 Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian
+  PACHECO\n🇺🇸 Clayton YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰
+  Dario IVANOVSKI\n🇪🇹 Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪
+  Eliud KIPCHOGE\n🇿🇦 Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob
+  FANIEL\n🇫🇷 Felix BOUR\n🇹🇿 Gabriel Gerald GEAY\n🇮🇱 Gashau
+  AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector
+  GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯
+  Ibrahim HASSAN\n🇿🇼 Isaac MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen
+  OZBILEN\n🇪🇹 Kenenisa BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen
+  NAERT\n🇺🇸 Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱
+  Maru TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas
+  NAVARRO\n🇯🇵 OSAKO Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick
+  TIERNAN\n🇬🇧 Philip SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory
+  LINKLETTER\n🇪🇷 Samsom AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI
+  SIBHATU\n🇨🇻 Samuel FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh
+  DAVLYATOV\n🇳🇴 Sondre Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen
+  MOKOKA\n🇸🇪 Suldan HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse
+  ABRAHAM\n🇪🇹 Tamirat TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello
+  RAMAKONGOANA\n🇹🇩 Valentin BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU
+  Xiangdong\n🇨🇳 YANG Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹
+  Yemaneberhan CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Men's Marathon
 LOCATION:Invalides
 END:VEVENT
@@ -4939,12 +4938,12 @@ SUMMARY:🏃 Men's 4 x 400m Relay Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T190000Z-beach-volleyball-MENS-BRONZE-MEDAL-MATCH
+UID:20240810T190000Z-beach-volleyball-MENS-BRONZE-MEDAL-MATCH-QAT-NOR
 DTSTAMP:20240810T190000Z
 DTSTART:20240810T190000Z
 DTEND:20240810T195000Z
 DESCRIPTION:Beach Volleyball - Men's Bronze Medal Match
-SUMMARY:🏐 Men's Bronze Medal Match
+SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇳🇴 MOL/SORUM
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
@@ -5030,12 +5029,12 @@ SUMMARY:🥊 Abdumalik KHALOKOV 🇺🇿 - 🇰🇬 Munarbek SEIITBEK UULU
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T203000Z-beach-volleyball-MENS-GOLD-MEDAL-MATCH
+UID:20240810T203000Z-beach-volleyball-MENS-GOLD-MEDAL-MATCH-SWE-GER
 DTSTAMP:20240810T203000Z
 DTSTART:20240810T203000Z
 DTEND:20240810T212000Z
 DESCRIPTION:Beach Volleyball - Men's Gold Medal Match
-SUMMARY:🏐 Men's Gold Medal Match
+SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇩🇪 EHLERS/WICKLER
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
