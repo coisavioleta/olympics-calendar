@@ -11060,12 +11060,12 @@ SUMMARY:🤽 SRB 🇷🇸 - 🇺🇸 USA
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T133200Z-taekwondo-MEN-80KG-QUARTERFINAL
+UID:20240809T133200Z-taekwondo-MEN-80KG-QUARTERFINAL-USA-BUR
 DTSTAMP:20240809T133200Z
 DTSTART:20240809T133200Z
 DTEND:20240809T134500Z
-DESCRIPTION:Taekwondo - Men -80kg Quarterfinal\n🇺🇸 CJ NICKOLAS
-SUMMARY:🥋 Men -80kg Quarterfinal
+DESCRIPTION:Taekwondo - Men -80kg Quarterfinal
+SUMMARY:🥋 CJ NICKOLAS 🇺🇸 - 🇧🇫 Faysal SAWADOGO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -11291,6 +11291,40 @@ SUMMARY:🏃 Men's 400m Hurdles Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T060000Z-athletics-MENS-MARATHON
+DTSTAMP:20240810T060000Z
+DTSTART:20240810T060000Z
+DTEND:20240810T084500Z
+DESCRIPTION:Athletics - Men's Marathon\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi
+  NAGEEYE\n🇬🇹 Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿
+  Alphonce Felix SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬
+  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron
+  LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
+  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
+  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
+  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
+  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
+  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
+  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
+  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+SUMMARY:🏃 Men's Marathon
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T081000Z-taekwondo-MEN-80KG-ROUND-OF-16-USA-CHN
 DTSTAMP:20240810T081000Z
 DTSTART:20240810T081000Z
@@ -11471,6 +11505,18 @@ DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n�
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Duet Free Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173500Z-athletics-WOMENS-100M-HURDLES-FINAL
+DTSTAMP:20240810T173500Z
+DTSTART:20240810T173500Z
+DTEND:20240810T173600Z
+DESCRIPTION:Athletics - Women's 100m Hurdles Final\n🇯🇲 Ackera
+  NUGENT\n🇺🇸 Alaysha JOHNSON\n🇫🇷 Cyrena SAMBA-MAYELA\n🇧🇸 Devynne
+  CHARLTON\n🇺🇸 Grace STARK\n🇵🇷 Jasmine CAMACHO-QUINN\n🇺🇸 Masai
+  RUSSELL\n🇳🇱 Nadine VISSER
+SUMMARY:🏃 Women's 100m Hurdles Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T175000Z-athletics-MENS-5000M-FINAL

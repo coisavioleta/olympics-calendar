@@ -922,12 +922,12 @@ SUMMARY:🥋 Julyana ALSADEQ 🇯🇴 - 🇨🇳 SONG Jie
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T133200Z-taekwondo--80-
+UID:20240809T133200Z-taekwondo--80--USA-BUR
 DTSTAMP:20240809T133200Z
 DTSTART:20240809T133200Z
 DTEND:20240809T134500Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)\n🇺🇸 CJ NICKOLAS
-SUMMARY:🥋 Четвертьфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)
+SUMMARY:🥋 CJ NICKOLAS 🇺🇸 - 🇧🇫 Faysal SAWADOGO
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -935,7 +935,7 @@ UID:20240809T134500Z-taekwondo--67-
 DTSTAMP:20240809T134500Z
 DTSTART:20240809T134500Z
 DTEND:20240809T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)\n🇹🇭 Sasikarn TONGCHAN
 SUMMARY:🥋 Четвертьфинал, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -944,7 +944,7 @@ UID:20240809T135800Z-taekwondo--80-
 DTSTAMP:20240809T135800Z
 DTSTART:20240809T135800Z
 DTEND:20240809T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)\n🇹🇳 Firas KATOUSSI
 SUMMARY:🥋 Четвертьфинал, до 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
