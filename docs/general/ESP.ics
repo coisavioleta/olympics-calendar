@@ -7219,7 +7219,7 @@ DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇮🇹 Alessandro
   CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹 Jereem
   RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇯🇵 KAWABATA
   Kaito\n🇵🇱 Kajetan DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -7631,6 +7631,15 @@ DTEND:20240810T210200Z
 DESCRIPTION:Boxing - Men's +92kg - Final
 SUMMARY:🥊 Bakhodir JALOLOV 🇺🇿 - 🇪🇸 Ayoub GHADFA DRISSI EL AISSAOUI
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T070000Z-water-polo-MENS-CLASSIFICATION-5TH-6TH
+DTSTAMP:20240811T070000Z
+DTSTART:20240811T070000Z
+DTEND:20240811T082500Z
+DESCRIPTION:Water Polo - Men's Classification 5th-6th\n🇪🇸 ESP
+SUMMARY:🤽 Men's Classification 5th-6th
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

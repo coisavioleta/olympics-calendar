@@ -2330,6 +2330,21 @@ SUMMARY:🤺 Men's Individual, Semi-final A, Fencing Bonus Round
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-LASER-R
+DTSTAMP:20240809T124000Z
+DTSTART:20240809T124000Z
+DTEND:20240809T130000Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Laser
+  Run\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Men's Individual, Semi-final A, Laser Run
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T125300Z-taekwondo-WOMEN-67KG-QUARTERFINAL-EGY-BEL
 DTSTAMP:20240809T125300Z
 DTSTART:20240809T125300Z
@@ -2406,6 +2421,15 @@ DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Fencing
   POTAPENKO
 SUMMARY:🤺 Women's Individual, Semi-final A, Fencing Bonus Round
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095600Z-wrestling-MENS-FREESTYLE-97KG-18-FINAL-KAZ-EGY
+DTSTAMP:20240810T095600Z
+DTSTART:20240810T095600Z
+DTEND:20240810T100300Z
+DESCRIPTION:Wrestling - Men's Freestyle 97kg 1/8 Final
+SUMMARY:🤼 Alisher YERGALI 🇰🇿 - 🇪🇬 Mostafa ELDERS
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-WOMENS-81KG

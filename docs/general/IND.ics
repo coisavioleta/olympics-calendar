@@ -2473,7 +2473,7 @@ DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇮🇹 Alessandro
   CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹 Jereem
   RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇯🇵 KAWABATA
   Kaito\n🇵🇱 Kajetan DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -2493,6 +2493,15 @@ DTSTART:20240809T171500Z
 DTEND:20240809T172500Z
 DESCRIPTION:Wrestling - Men's Freestyle 57kg Bronze Medal Match
 SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇮🇳 Aman AMAN
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092100Z-wrestling-WOMENS-FREESTYLE-76KG-18-FINAL-IND-HUN
+DTSTAMP:20240810T092100Z
+DTSTART:20240810T092100Z
+DTEND:20240810T092800Z
+DESCRIPTION:Wrestling - Women's Freestyle 76kg 1/8 Final
+SUMMARY:🤼 Reetika REETIKA 🇮🇳 - 🇭🇺 Bernadett NAGY
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -1823,6 +1823,23 @@ SUMMARY:🚴 Women's Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124800Z-cycling-track-WOMENS-SPRINT-132-FINALS
+DTSTAMP:20240809T124800Z
+DTSTART:20240809T124800Z
+DTEND:20240809T132900Z
+DESCRIPTION:Cycling Track - Women's Sprint, 1/32 Finals\n🇨🇳 BAO
+  Shanju\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der
+  PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Women's Sprint, 1/32 Finals
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-MENS-89KG
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -1847,6 +1864,15 @@ DESCRIPTION:Weightlifting - Women's 71kg\n🇧🇷 Amanda da COSTA SCHOTT\n🇪�
   Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 Women's 71kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094200Z-wrestling-WOMENS-FREESTYLE-76KG-18-FINAL-COL-TUN
+DTSTAMP:20240810T094200Z
+DTSTART:20240810T094200Z
+DTEND:20240810T094900Z
+DESCRIPTION:Wrestling - Women's Freestyle 76kg 1/8 Final
+SUMMARY:🤼 Tatiana RENTERIA RENTERIA 🇨🇴 - 🇹🇳 Zaineb SGHAIER
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-athletics-WOMENS-JAVELIN-THROW-FINAL

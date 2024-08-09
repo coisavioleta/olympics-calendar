@@ -1824,6 +1824,23 @@ SUMMARY:🚴 Спринт, квалификация (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124800Z-cycling-track--132-
+DTSTAMP:20240809T124800Z
+DTSTART:20240809T124800Z
+DTEND:20240809T132900Z
+DESCRIPTION:Трековые велогонки - Спринт, 1/32 финала (ж)\n🇨🇳 BAO
+  Shanju\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der
+  PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Спринт, 1/32 финала (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-89-
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -1848,6 +1865,15 @@ DESCRIPTION:Тяжелая атлетика - 71кг (ж)\n🇧🇷 Amanda da CO
   Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 71кг (ж)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094200Z-wrestling--76-18--COL-TUN
+DTSTAMP:20240810T094200Z
+DTSTART:20240810T094200Z
+DTEND:20240810T094900Z
+DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/8 финала (ж)
+SUMMARY:🤼 Tatiana RENTERIA RENTERIA 🇨🇴 - 🇹🇳 Zaineb SGHAIER
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-athletics--

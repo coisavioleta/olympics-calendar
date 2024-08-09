@@ -3574,7 +3574,7 @@ DESCRIPTION:陸上競技 - 男子4×400mリレー予選\n🇮🇹 Alessandro SIB
   OJELI\n🇪🇸 Inaki CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹
   Jereem RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇯🇵 KAWABATA
   Kaito\n🇵🇱 Kajetan DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -3664,6 +3664,23 @@ DTEND:20240809T134500Z
 DESCRIPTION:ホッケー - 女子3位決定戦
 SUMMARY:🏑 アルゼンチン 🇦🇷 - 🇧🇪 ベルギー
 LOCATION:イヴ＝ドゥ＝マノワール・スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T124800Z-cycling-track-132
+DTSTAMP:20240809T124800Z
+DTSTART:20240809T124800Z
+DTEND:20240809T132900Z
+DESCRIPTION:自転車トラックレース - 女子スプリント1/32決勝\n🇨🇳 BAO Shanju\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
+  HINZE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie NICOLAES\n🇨🇦 Kelsey
+  MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea
+  FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷
+  Mathilde GROS\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵
+  OHTA Riyu\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇨🇴
+  Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie
+  Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 女子スプリント1/32決勝
+LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T125300Z-taekwondo-67KG-EGY-BEL

@@ -8719,6 +8719,23 @@ SUMMARY:🚴 Women's Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124800Z-cycling-track-WOMENS-SPRINT-132-FINALS
+DTSTAMP:20240809T124800Z
+DTSTART:20240809T124800Z
+DTEND:20240809T132900Z
+DESCRIPTION:Cycling Track - Women's Sprint, 1/32 Finals\n🇨🇳 BAO
+  Shanju\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der
+  PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Women's Sprint, 1/32 Finals
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-diving-WOMENS-3M-SPRINGBOARD-FINAL
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -8977,6 +8994,15 @@ DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Semifinal 1\n🇧🇪
   OTERO EZCURRA\n🇩🇰 Rene Holten POULSEN\n🇦🇺 Tom GREEN
 SUMMARY:🛶 Men's Kayak Single 1000m Semifinal 1
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094900Z-wrestling-MENS-FREESTYLE-65KG-18-FINAL-AUS-PUR
+DTSTAMP:20240810T094900Z
+DTSTART:20240810T094900Z
+DTEND:20240810T095600Z
+DESCRIPTION:Wrestling - Men's Freestyle 65kg 1/8 Final
+SUMMARY:🤼 Georgii OKOROKOV 🇦🇺 - 🇵🇷 Sebastian C RIVERA
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD

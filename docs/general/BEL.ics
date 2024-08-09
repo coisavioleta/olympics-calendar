@@ -3640,7 +3640,7 @@ DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇮🇹 Alessandro
   CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹 Jereem
   RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇯🇵 KAWABATA
   Kaito\n🇵🇱 Kajetan DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -3735,6 +3735,23 @@ DTEND:20240809T134500Z
 DESCRIPTION:Hockey - Women's Bronze Medal Match
 SUMMARY:🏑 ARG 🇦🇷 - 🇧🇪 BEL
 LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T124800Z-cycling-track-WOMENS-SPRINT-132-FINALS
+DTSTAMP:20240809T124800Z
+DTSTART:20240809T124800Z
+DTEND:20240809T132900Z
+DESCRIPTION:Cycling Track - Women's Sprint, 1/32 Finals\n🇨🇳 BAO
+  Shanju\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der
+  PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Women's Sprint, 1/32 Finals
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T125300Z-taekwondo-WOMEN-67KG-QUARTERFINAL-EGY-BEL

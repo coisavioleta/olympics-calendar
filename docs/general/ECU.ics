@@ -761,6 +761,21 @@ SUMMARY:🤺 Men's Individual, Semi-final A, Fencing Bonus Round
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-LASER-R
+DTSTAMP:20240809T124000Z
+DTSTART:20240809T124000Z
+DTEND:20240809T130000Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Laser
+  Run\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Men's Individual, Semi-final A, Laser Run
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-weightlifting-WOMENS-71KG
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -772,6 +787,15 @@ DESCRIPTION:Weightlifting - Women's 71kg\n🇧🇷 Amanda da COSTA SCHOTT\n🇪�
   Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 Women's 71kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T100300Z-wrestling-WOMENS-FREESTYLE-76KG-18-FINAL-ECU-JPN
+DTSTAMP:20240810T100300Z
+DTSTART:20240810T100300Z
+DTEND:20240810T101000Z
+DESCRIPTION:Wrestling - Women's Freestyle 76kg 1/8 Final
+SUMMARY:🤼 Genesis Rosangela REASCO VALDEZ 🇪🇨 - 🇯🇵 KAGAMI Yuka
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T121000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-B-FENCI

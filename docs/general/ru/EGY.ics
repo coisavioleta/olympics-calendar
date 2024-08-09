@@ -2337,6 +2337,21 @@ SUMMARY:🤺 Личный зачет, полуфинал A, фехтование
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T124000Z-modern-pentathlon--A-
+DTSTAMP:20240809T124000Z
+DTSTART:20240809T124000Z
+DTEND:20240809T130000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, лазер-ран
+  (м)\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Личный зачет, полуфинал A, лазер-ран (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T125300Z-taekwondo--67--EGY-BEL
 DTSTAMP:20240809T125300Z
 DTSTART:20240809T125300Z
@@ -2414,6 +2429,15 @@ DESCRIPTION:Современное пятиборье - Личный зачет,
   POTAPENKO
 SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
 LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095600Z-wrestling--97-18--KAZ-EGY
+DTSTAMP:20240810T095600Z
+DTSTART:20240810T095600Z
+DTEND:20240810T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/8 финала (м)
+SUMMARY:🤼 Alisher YERGALI 🇰🇿 - 🇪🇬 Mostafa ELDERS
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-81-
