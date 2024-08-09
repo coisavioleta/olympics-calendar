@@ -3540,6 +3540,30 @@ SUMMARY:🏋 Men's 89kg
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T142400Z-taekwondo-MEN-80KG-SEMIFINAL-KOR-IRI
+DTSTAMP:20240809T142400Z
+DTSTART:20240809T142400Z
+DTEND:20240809T143700Z
+DESCRIPTION:Taekwondo - Men -80kg Semifinal
+SUMMARY:🥋 SEO Geonwoo 🇰🇷 - 🇮🇷 Mehran BARKHORDARI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T150000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-RIDING-
+DTSTAMP:20240809T150000Z
+DTSTART:20240809T150000Z
+DTEND:20240809T153500Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Riding Show
+  Jumping\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles
+  BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷
+  JUN Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Men's Individual, Semi-final B, Riding Show Jumping
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T154000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-FENCING
 DTSTAMP:20240809T154000Z
 DTSTART:20240809T154000Z
